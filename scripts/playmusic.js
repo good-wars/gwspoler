@@ -1,0 +1,1 @@
+document.onmouseover =_=> audio.play();

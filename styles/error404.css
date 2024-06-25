@@ -1,0 +1,20 @@
+.error {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.hidden-button {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+}
+
+.square-button {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    margin: 5px;
+    cursor: pointer;
+}
